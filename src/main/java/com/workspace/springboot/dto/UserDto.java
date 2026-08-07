@@ -8,6 +8,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+//OpenApiDocumentation for DTO
 @Schema(
         description = "UserDto Model Information"
 )
